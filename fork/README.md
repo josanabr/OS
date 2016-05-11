@@ -18,5 +18,5 @@ y ejecútelo `./fork_00`.
 **Ayuda** Revise el programa `demo.c` y con las herramientas que tiene modifique el programa `fork_01.b` de modo que al final se imprima el valor de 9. De ser necesario revise la descripción de la función `waitpid()` en  http://www.tutorialspoint.com/unix_system_calls/waitpid.htm
 
 - Desarrolle un programa en C en C que ejecute un hijo y donde se evidencie que es el padre quien termina la ejecución de su hijo
-- http://linux.die.net/man/3/sleep
-- http://www.tutorialspoint.com/unix_system_calls/kill.htm 
+ - http://linux.die.net/man/3/sleep
+ - http://www.tutorialspoint.com/unix_system_calls/kill.htm 
